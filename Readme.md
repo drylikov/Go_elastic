@@ -3,4 +3,3 @@
   Little (incomplete) Elasticsearch client with AWS sigv4 support.
 
 
-
